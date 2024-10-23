@@ -1,0 +1,6 @@
+URL,STATUS,FEATURE SET
+https://www.geeksforgeeks.org/courses?source=google&medium=cpc&device=c&keyword=gfg&matchtype=e&campaignid=20039445781&adgroup=147845288105&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT7-BKHKxoMlyto_iLVoSyzONQ07XUSks3CoDl9nweIMMdFq-9n5dm6RoCrZIQAvD_BwE,Legitimate URL,"[-1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1]"
+https://chat.openai.com/,Legitimate URL,"[-1, 1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1, 1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, 1, -1, -1]"
+https://www.codeproject.com/Articles/1082879/Parallel-Implementation-and-Evaluation-of-QuickSor,Legitimate URL,"[-1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1]"
+https://www.canva.com/,Suspected Phishing URL,"[-1, 1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1]"
+https://github.com/karelklein/Parallel-Breadth-First-Search/tree/master/parallel,Legitimate URL,"[-1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1, 1, -1, 0, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1]"
